@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashish-compo" alt="aashish-compo" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@aashishkarn9" target="blank"><img src="https://img.shields.io/twitter/follow/@aashishkarn9?logo=twitter&style=for-the-badge" alt="@aashishkarn9" /></a> </p>
 
 - 📫 How to reach me **aashishkarn36@gmail.com**
 
