@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aashish</h1>
-<h3 align="center">I am computer Engineering student and working in the field of Data science and Machine learning</h3>
+<h3 align="center">I am Machine learning engineer student who works and build ML models. I have learned gained expertise on transformers and LLMs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashish-compo&label=Profile%20views&color=0e75b6&style=flat" alt="aashish-compo" /> </p>
 
